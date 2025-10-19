@@ -1,6 +1,6 @@
 baseURL: "https://carmelolg.github.io/chords"
 languageCode: it-IT
-title: 
+title: Chords
 theme: ["hugo-PaperMod"]
 
 enableInlineShortcodes: true
@@ -25,19 +25,19 @@ languages:
     languageName: "Italiano"
     weight: 1
     taxonomies:
-      category: difficoltà
+      category: livello
       tag: autori
       series: genere
     menu:
       main:
         - name: Archivio
-          url: archives
+          url: livello
           weight: 2
         - name: Ricerca
           url: search/
           weight: 1
         - name: Autori
-          url: tags/
+          url: autori/
           weight: 3
         - name: Chi sono
           url: https://github.com/carmelolg
