@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://carmelolg.github.io/chords"
 languageCode: it-IT
 title: 
 theme: ["hugo-PaperMod"]
