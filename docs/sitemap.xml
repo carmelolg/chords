@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carmelolg.github.io/chords/autori/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://carmelolg.github.io/chords/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carmelolg.github.io/chords/autori/colapesce/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carmelolg.github.io/chords/livello/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carmelolg.github.io/chords/livello/medio/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carmelolg.github.io/chords/posts/</loc>
@@ -13,11 +25,7 @@
   </url><url>
     <loc>https://carmelolg.github.io/chords/archives/</loc>
   </url><url>
-    <loc>https://carmelolg.github.io/chords/autori/</loc>
-  </url><url>
     <loc>https://carmelolg.github.io/chords/genere/</loc>
-  </url><url>
-    <loc>https://carmelolg.github.io/chords/livello/</loc>
   </url><url>
     <loc>https://carmelolg.github.io/chords/search/</loc>
   </url>
