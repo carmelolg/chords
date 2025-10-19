@@ -1,5 +1,5 @@
 ---
-title: "Search"
-placeholder: Search demo site with full text fuzzy search ...
+title: "Ricerca"
+placeholder: Ricerca autori, canzoni, testo ...
 layout: "search"
 ---
