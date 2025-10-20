@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Facile on Chords</title>
-    <link>https://carmelolg.github.io/chords/livello/facile/</link>
-    <description>Recent content in Facile on Chords</description>
-    <image>
-      <title>Chords</title>
-      <url>https://carmelolg.github.io/chords/images/papermod-cover.png</url>
-      <link>https://carmelolg.github.io/chords/images/papermod-cover.png</link>
-    </image>
+    <title>Basso on Melo Chords</title>
+    <link>https://carmelolg.github.io/chords/livello/basso/</link>
+    <description>Recent content in Basso on Melo Chords</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>it</language>
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carmelolg.github.io/chords/livello/facile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carmelolg.github.io/chords/livello/basso/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colapesce - Sottocoperta</title>
       <link>https://carmelolg.github.io/chords/posts/colapesce/sottocoperta/</link>
