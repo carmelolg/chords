@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Livello on Chords</title>
+    <title>Livello on Melo Chords</title>
     <link>https://carmelolg.github.io/chords/livello/</link>
-    <description>Recent content in Livello on Chords</description>
-    <image>
-      <title>Chords</title>
-      <url>https://carmelolg.github.io/chords/images/papermod-cover.png</url>
-      <link>https://carmelolg.github.io/chords/images/papermod-cover.png</link>
-    </image>
+    <description>Recent content in Livello on Melo Chords</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>it</language>
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://carmelolg.github.io/chords/livello/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Facile</title>
-      <link>https://carmelolg.github.io/chords/livello/facile/</link>
+      <title>Basso</title>
+      <link>https://carmelolg.github.io/chords/livello/basso/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://carmelolg.github.io/chords/livello/facile/</guid>
+      <guid>https://carmelolg.github.io/chords/livello/basso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medio-Basso</title>
+      <link>https://carmelolg.github.io/chords/livello/medio-basso/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carmelolg.github.io/chords/livello/medio-basso/</guid>
       <description></description>
     </item>
   </channel>
