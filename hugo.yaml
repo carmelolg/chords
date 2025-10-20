@@ -1,6 +1,6 @@
 baseURL: "https://carmelolg.github.io/chords"
 languageCode: it-IT
-title: Chords
+title: Melo Chords
 theme: ["hugo-PaperMod"]
 
 enableInlineShortcodes: true
@@ -69,12 +69,12 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  # images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: true
     title: 🎸 Melo Chords
-    imageUrl: "images/me.png"
+    imageUrl: "me.png"
     imageTitle: Image here
     imageWidth: 120
     imageHeight: 120

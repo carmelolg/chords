@@ -3,7 +3,7 @@ author: ["carmelolg"]
 title: "Colapesce - Sottocoperta"
 date: "2025-10-19"
 description: ""
-livello: Facile
+livello: Basso
 autori: Colapesce
 genere: Cantautorato
 ShowToc: false
