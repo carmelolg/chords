@@ -1,0 +1,22 @@
+.main .profile {
+    min-height: calc(75vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
+}
+
+.buttons {
+    flex-wrap: wrap-reverse;
+    max-width: 400px;
+}
+
+.button {
+    background: var(--tertiary);
+    border-radius: var(--radius);
+    margin: 8px;
+    padding: 6px;
+    transition: transform 0.1s;
+}
+/* .button:hover {
+    background-color: red;
+} */
+.button:active {
+    transform: scale(1.5);
+}
