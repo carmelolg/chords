@@ -14,9 +14,17 @@
     padding: 6px;
     transition: transform 0.1s;
 }
-/* .button:hover {
-    background-color: red;
-} */
+
+.button:hover {
+    background-color: var(--primary);
+    color: var(--tertiary);
+    transform: scale(1.15);
+}
+
 .button:active {
-    transform: scale(1.5);
+    transform: scale(1.25);
+}
+
+.nav a:hover {
+    color: var(--secondary);
 }
