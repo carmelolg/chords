@@ -85,3 +85,6 @@ Sotto Gcoperta
 F                       G
 profumo di cannella misto a gelsomino e tela
 ```
+
+### Ascolta l'originale su YouTube
+{{< youtube 2k5JtYY7FKU >}}

@@ -63,3 +63,7 @@ sa - tellite              sa - tellite          sa - tellite - e      bianco
     Mi7+   Mibm       Mi7+  Mibm        Mi7+         Mibm      Sol#m
 sa - tellite              sa - tellite          sa - tellite          bianco 
 ```
+
+
+### Ascolta l'originale su YouTube
+{{< youtube x7GnPOZpZN4 >}}

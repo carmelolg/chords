@@ -74,3 +74,6 @@ e dimmi che resti a dormi  -   re  da me
 stano - tte    no - tte,    no.
 
 ```
+
+### Ascolta l'originale su YouTube
+{{< youtube L8-Z92j_5aE >}}

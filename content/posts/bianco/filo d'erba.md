@@ -88,3 +88,6 @@ che è meglio guardare per aria che a terra
 
 ##### Note 
 > Nel ritornello da RE a SI– e viceversa, si può aggiungere in mezzo la nota al 4° tasto della 5° corda
+
+### Ascolta l'originale su YouTube
+{{< youtube DoASbjgzQDI >}}

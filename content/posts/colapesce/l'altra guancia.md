@@ -74,3 +74,6 @@ la vita è solo una manciata di domeniche
 RE-     SOL           LA-          MI
 nascondo le ore sotto il tavolo.
 ```
+
+### Ascolta l'originale su YouTube
+{{< youtube nsy9x_8ni8Q >}}

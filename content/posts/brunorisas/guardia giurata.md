@@ -57,3 +57,7 @@ Io, tu e tua madre, per tutta la vita
 MI	Instr. MI FA\#- SOL\#- LA MI FA\#- SI		MI
 Con tutto l'amore
 ```
+
+
+### Ascolta l'originale su YouTube
+{{< youtube iJmuhgQ7sS0 >}}

@@ -118,3 +118,6 @@ E sono qui in silenzio
 DO
 E in mano tengo stretto un altro film
 ```
+
+### Ascolta l'originale su YouTube
+{{< youtube bWt0Bd7Mv38 >}}
