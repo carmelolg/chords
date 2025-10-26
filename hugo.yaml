@@ -40,7 +40,7 @@ languages:
           url: autori/
           weight: 3
         - name: Chi sono
-          url: https://github.com/carmelolg
+          url: https://carmelolg.github.io
           weight: 4
 
 outputs:
