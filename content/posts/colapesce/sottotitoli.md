@@ -9,20 +9,30 @@ genere: Cantautorato
 ShowToc: false
 ---
 
+```
+ REsus7     
+e -0--
+b -1--
+g -2--
+d -0--
+a -0--
+E -x--
+```
+
 ```text
 FA                 RE-7
 La stanza diventa una barca
 
-SIb
+                SIb
 Quando sei qui in silenzio
 
 DO                 FA
 E in mano tieni stretto un altro film
 
-RE-7
+                RE-7
 Da guardare con lo stupore
 
-RE9            DO
+REsus7            DO
 E quella magia che ti contraddistingue
 
 SOL-7
@@ -48,25 +58,25 @@ In un bistrot o che ne so
 [stacco: RE# - Sib — DO - FA]
 
 
-RE-7
+                    RE-7
 La scelta ci porta in Svezia
 
-RE9
+REsus7
 Poi in Giappone
 
 SIb
 Ma noi qui
 
-DO                FA
+DO                              FA
 Sconfiggo il nucleare con un clic
 
 RE-7
 Metti in pausa questo amore
 
-SIb
+        SIb
 Non siamo qui
 
-DO
+    DO
 Io cerco la tua mano
 
 [pausa]
@@ -103,7 +113,7 @@ Nello spazio
 DO                 SOL-7
 Immergiamoci nel mare con Zissou
 
-SOL+
+SOL
 ... Non ricordo più
 
 Sib                FA
@@ -112,7 +122,7 @@ Dove eravamo quasi un anno fa
 FA                 RE-7
 La stanza diventa una barca
 
-SIb
+REsus7              SIb
 E sono qui in silenzio
 
 DO

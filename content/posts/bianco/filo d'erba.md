@@ -66,7 +66,7 @@ non è verso il basso ma in su
  MI                         SI-
 là dove il mare aria è già
 
-RE6
+RE
 
 Dove la tua voce possa ritrovare ascolto
 SI-
